@@ -1,0 +1,6 @@
+{
+  "name": "simmetrix_smithwaterman",
+  "version": "0.0.2",
+  "main": "./lib/simmetrix.smithwaterman.js",
+  "dependencies": { }
+}
