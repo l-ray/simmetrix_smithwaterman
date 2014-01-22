@@ -3,7 +3,7 @@
     "name": "Lennart Reuther",
     "email": "lennart.reuther+xirtemmis@gmail.com"
   },
-  "name": "simmetrix_smithwaterman",
+  "name": "simmetrix-smithwaterman",
   "description": "Smith-Waterman algorithm in javascript",
   "version": "0.0.2",
   "repository": {
